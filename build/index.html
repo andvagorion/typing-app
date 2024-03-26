@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>🔠 Furious typing noises...</title>
+    <link rel="stylesheet" href="app.css" />
+  </head>
+
+  <body>
+    <div class="flex-container">
+      <div id="app">
+        <span class="typed"></span><span class="cursor"></span
+        ><span class="remaining"></span>
+      </div>
+    </div>
+    <div id="overlay">
+      <span class="cpm"></span>
+      <span class="errors"></span>
+    </div>
+
+    <script type="text/javascript" src="game.bundle.js"></script>
+    <script type="text/javascript">
+      window.addEventListener("DOMContentLoaded", () => new Game.default())
+    </script>
+  </body>
+</html>

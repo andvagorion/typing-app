@@ -1,0 +1,5 @@
+export const LINES = [
+    "The studio was filled with the rich odor of roses, and when the light summer wind stirred amidst the trees of the garden there came through the open door the heavy scent of the lilac, or the more delicate perfume of the pink-flowering thorn.",
+    "The wind shook some blossoms from the trees, and the heavy lilac blooms, with their clustering stars, moved to and fro in the languid air. A grasshopper began to chirrup in the grass, and a long thin dragon-fly floated by on its brown gauze wings.",
+    "Dorian Gray frowned and turned his head away. He could not help liking the tall, graceful young man who was standing by him. His romantic olive-colored face and worn expression interested him. There was something in his low, languid voice that was absolutely fascinating. His cool, white, flower-like hands, even, had a curious charm. They moved, as he spoke, like music, and seemed to have a language of their own. But he felt afraid of him, and ashamed of being afraid."
+]
